@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-git 
-
+git
 git diff
 
 hotfix branch
-
->>>>>>> hotfix
+hofix branch -d
